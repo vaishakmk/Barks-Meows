@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+}
+
+ul{
+    list-style: none;
+}
+input,button,textarea{
+    border: none;
+    outline: none;
+}
+
+
+/**************** Navigation ***************/
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar-brand{
+    margin-right: 40%;
+    margin-top: 10px;
+}
+
+nav ul {
+    display: flex;
+    color: bisque;
+}
+
+nav ul li a{
+
+    height: 40px;
+    line-height: 43px;
+    margin: 3px;
+    padding: 0 22px;
+    display: flex;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.6s ease-in-out;
+    color:black ;
+}
+
+nav ul li a:hover{
+    background-color: rgba(219, 96, 116, 0.726);
+    color: rgb(236, 208, 208);
+    box-shadow: 5px 10px 15px rgba(236, 68, 68, 0.616);
+}
+.active{
+    background-color: rgba(219, 96, 116, 0.726);
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 10px 15px rgba(236, 68, 68, 0.616);
+}
+
+.main{
+    width: 100%;
+    height: 800px;
+    position: relative;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-image: url(../images/img12.jpeg);
+}
+
+.main-heading{
+    width: 800px;
+    position: absolute;
+    left: 12%;
+    top: 40%;
+    transform: translate(-16%,-47%);
+}
+.main-heading h1{
+
+    font-size: 90px;
+    margin-top: 70px;
+    color: bisque;
+}
+.main-heading p{
+    color: bisque;
+    font-size: 40px;
+    margin-right: 15%;
+
+}
+
+.main-btn{
+    font-size: 1rem   ;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+    border-radius: 10px;
+    color: bisque;
+    transition: 0.6s ease-in-out;
+}
+
+.main-btn :hover{
+    box-shadow: 5px 10px 15px rgba(236, 68, 68, 0.616);    
+}
+
+
+.services-main{
+    width: 100%;
+    height: 1200px;
+    position: relative;
+    background-size: auto;
+    background-color: bisque;
+}
+
+
+
+h2{
+    padding: 25px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color:rgb(139, 43, 39);
+}
+
+
+
+
+.xop-section{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 6% 2%;
+    margin-top: -5%;
+}
+
+.xop-grid{
+    margin: 20px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+    width: 100%;
+
+}  
+
+.xop-grid:after{
+    clear: both;
+}
+
+.xop-grid:after, .xop-box:before{
+    content: "";
+    display: table;
+}
+
+
+.xop-grid li{
+    width: 328px;
+    height: 328px;
+    display: inline-block;
+    margin: 20px;
+}
+ 
+.xop-box{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+    border-radius: 25px;
+    -webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+    transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.h3 , h3{
+    margin-top:70%;
+    color:bisque;
+}
+
+p{
+    color:bisque;
+}
+.xop-box:hover{
+    transform:scale(1.05);
+}
+ 
+.xop-img-1{
+    background: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.10)),
+    url(../images/img10.jpeg);
+    background-size: cover;
+    left: -20%;
+}
+
+
+.xop-img-2{
+    background: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.10)),
+    url(../images/img5.jpeg);
+    background-size: cover;
+    left: 20%;
+}
+
+
+.xop-img-3{
+    background: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.10)),
+    url(../images/img9.jpeg);
+    background-size: cover;
+    left: -20%;
+}
+
+.xop-img-4{
+    background: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.10)),
+    url(../images/img7.jpg);
+    background-size: cover;
+    left: 20%;
+}
+
+.xop-img-5{
+    background: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.10)),
+    url(../images/img7.jpg);
+    background-size: cover;
+    left: 20%;
+}
+
+.about-main{
+    width: 100%;
+    height: 2200px;
+    position: relative;
+    background-size: auto;
+    background-color: bisque;
+}
+
+.contacts-main{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: auto;
+    background-color: bisque;
+    
+}
+
+.news-main{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: auto;
+    background-color: bisque;
+}
+
+
