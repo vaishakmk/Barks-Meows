@@ -50,7 +50,7 @@
   <body>
     <section class = "userlist-main">
       <nav>
-        <a class="navbar-brand" >
+        <a class="navbar-brand" href="index.php">
           <img src = "images/imglogo.jpeg" width = "90" height = "90" /> B&M
         </a>
 

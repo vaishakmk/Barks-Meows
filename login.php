@@ -7,10 +7,11 @@
             $USERNAME = $_POST["USERNAME"];
             $PASSWORD = $_POST["PASSWORD"];
             $filename="password.txt";
+         
             
             // check if user has left USERNAME or PASSWORD field blank
          if ( isset( $LOGIN ) ) {
-               
+            
 
                // if a new user is not being added, open file
                // for reading

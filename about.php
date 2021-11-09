@@ -89,7 +89,7 @@
 
     <section class = "about-main">
       <nav>
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
           <img src = "images/imglogo.jpeg" width = "90" height = "90" /> B&M
         </a>
 
