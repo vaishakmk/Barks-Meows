@@ -36,14 +36,19 @@
         }
         .userlist-main{
                 width: 100%;
-                height: 1000px;
                 position: relative;
                 background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/img3.png);
                 background-attachment: fixed;
+                background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center;
-                
-        }
+                top: 0; 
+                left: 0; 
+                /* Preserve aspet ratio */
+                min-width: 100%;
+                min-height: 736px;
+              }
+
 
        .contacts-menu a{
                font-weight:900px;
@@ -60,7 +65,7 @@
 
 <section class = "userlist-main">
       <nav>
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index.php" style="margin-right: 30%;">
           <img src = "images/imglogo.jpeg" width = "90" height = "90" /> B&M
         </a>
 
@@ -70,7 +75,8 @@
           <li><a href="services.php">Services</a><li>
           <li><a href="news.php">News</a><li>
           <li><a href="contacts.php">Contacts</a><li>
-          <li><a href="user.php"class = "active">Users</a><li>
+          <li><a href="user.php"class = "active">Register</a><li>
+          <li><a href="commonpage.php">Clients</a><li>
         </ul>
       </nav>
 <h1>Search Results</h1>
@@ -131,22 +137,13 @@ extract( $_POST );
         else{
             echo "<b style='color:bisque;margin-left:50px'>$count Results Found</b><br><br>";
         }
-
-        
-        /*while ($row = mysqli_fetch_array($result)){
-            $count = $count+1;
-            echo "$count-->      ";
-            echo $row['first_name'] . "    " . $row['last_name']."    ". $row['address'] . "    " . $row['email']."    ". $row['home_num'] . "   " . $row['home_num']."<br>";
-            echo "<br>";
-            }*/
-        
+  
 
     }
+
         mysqli_close($con);
 
      ?>
-
-
 
 </section>
 

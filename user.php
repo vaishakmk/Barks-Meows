@@ -279,7 +279,7 @@ function test_input($data) {
 
 <section class = "contacts-main">
       <nav>
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index.php" style="margin-right: 30%;">
           <img src = "images/imglogo.jpeg" width = "90" height = "90"/> B&M
         </a>
 
@@ -289,7 +289,8 @@ function test_input($data) {
           <li><a href="services.php">Services</a><li>
           <li><a href="news.php">News</a><li>
           <li><a href="contacts.php" >Contacts</a><li>
-          <li><a href="user.php" class = "active">Users</a><li>
+          <li><a href="user.php" class = "active">Register</a><li>
+          <li><a href="commonpage.php">Clients</a><li>
         </ul>
       </nav>
 

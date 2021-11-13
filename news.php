@@ -117,7 +117,7 @@
   <body>
     <section class = "news-main">
       <nav>
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index.php" style="margin-right: 30%;">
           <img src = "images/imglogo.jpeg" width = "90" height = "90" /> B&M
         </a>
 
@@ -127,7 +127,8 @@
           <li><a href="services.php">Services</a><li>
           <li><a href="news.php" class = "active">News</a><li>
           <li><a href="contacts.php" >Contacts</a><li>
-          <li><a href="user.php">Users</a><li>
+          <li><a href="user.php">Register</a><li>
+          <li><a href="commonpage.php">Clients</a><li>
 
         </ul>
       </nav>

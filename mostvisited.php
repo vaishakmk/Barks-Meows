@@ -8,8 +8,6 @@
 
     <style>
 
-
-
         body{
             background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/img8.jpeg);
             background-attachment: fixed;
