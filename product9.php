@@ -105,6 +105,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Pet Life </p>
                     <h2>Pet Life Comfort Hoodie</h2>
+                    The Pet Life Fashion Plush Dog Hoodie is composed of 100% soft ultra-plush stone washed cotton. The hood can be adjusted by tightening the strings, while this dog sweater is machine washable and features a leash slit holder. Available in Multiple Sizes and Colors.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

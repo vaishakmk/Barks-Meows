@@ -103,6 +103,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Top Paw</p>
                     <h2> Top Paw® Double Door Wire Dog Crate</h2>
+                    The Top Paw Double Door Wire Crate is a safe, comfortable and customizable home for your pet. A crate is your pet's home, den, and comfort zone. It is where they can go for security and to feel safe. Among its many attributes, this crate features a divider panel that customizes the living space for your growing dog. Additionally, it is a helpful tool in potty training, enabling you to section off a sleep area that your dog will instinctively want to keep clean. Only at PetSmart.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

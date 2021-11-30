@@ -103,6 +103,13 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Vet's Best® </p>
                     <h2>Vet's Best® Flea + Tick Home Spray</h2>
+                    Vet's Best Flea & Tick Dog & Home Spray
+
+- Spray directly on dog, bedding, pillows, carpets and rugs
+- All natural
+- Unique blend of peppermint oil and Eugenol (clove) oil extract
+- Absolutely no pyrethrins or cedar oil
+<br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

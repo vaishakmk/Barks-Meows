@@ -365,7 +365,7 @@ $count = 1;
         <span><i class = "far fa-star"></i></span>
   </div>
   </div>
-  <a href ="product1.php" class ="product-name" name="product1"> Royal Canin® Breed Health Nutrition™ Golden Retriever Adult Dog Food </a>
+  <a href ="product.php?id=1" class ="product-name" name="product1"> Royal Canin® Breed Health Nutrition™ Golden Retriever Adult Dog Food </a>
   <p class = "product-price"> $85.55</p>
   <p class = "product-price"> $81.55</p>
   </div>
@@ -403,7 +403,7 @@ $count = 1;
         <span><i class = "far fa-star"></i></span>
   </div>
   </div>
-  <a href ="product2.php" class ="product-name" >Top Paw® X-Large Adhesive Leakproof Dog Pads - 28" x 34"</a>
+  <a href ="product.php?id=2" class ="product-name" >Top Paw® X-Large Adhesive Leakproof Dog Pads - 28" x 34"</a>
   <p class = "product-price"> $24.99</p>
   <p class = "product-price"> $25.99</p>
   <br>
@@ -442,7 +442,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product3.php" class ="product-name" > PetSafe® Eatwell™ 5 Meal Automatic Pet Feeder </a>
+  <a href ="product.php?id=3" class ="product-name" > PetSafe® Eatwell™ 5 Meal Automatic Pet Feeder </a>
   <p class = "product-price"> $54.95</p>
   <p class = "product-price"> $41.55 </p>
   <br>
@@ -481,7 +481,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product4.php" class ="product-name" >Top Paw® Double Door Wire Dog Crate</a>
+  <a href ="product.php?id=4" class ="product-name" >Top Paw® Double Door Wire Dog Crate</a>
   <p class = "product-price"> $61.99</p>
   <p class = "product-price"> $46.99</p>
   <br>
@@ -518,7 +518,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product5.php" class ="product-name" >Purina Pro Plan Savor Adult Cat Food</a>
+  <a href ="product.php?id=5" class ="product-name" >Purina Pro Plan Savor Adult Cat Food</a>
   <p class = "product-price"> $1.01</p>
   <p class = "product-price"> $1.99</p>
   <br>
@@ -556,7 +556,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product6.php" class ="product-name" >Whisker City® Organic Catnip</a>
+  <a href ="product.php?id=6" class ="product-name" >Whisker City® Organic Catnip</a>
   <p class = "product-price"> $7.99</p>
   <p class = "product-price"> $5.99</p>
   <br>
@@ -595,7 +595,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product7.php" class ="product-name" >Litter Genie™ Plus Cat Litter Disposal System</a>
+  <a href ="product.php?id=7" class ="product-name" >Litter Genie™ Plus Cat Litter Disposal System</a>
   <p class = "product-price"> $24.99</p>
   <p class = "product-price"> $21.99</p>
   <br>
@@ -633,7 +633,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product8.php" class ="product-name" >Vet's Best® Flea + Tick Home Spray</a>
+  <a href ="product.php?id=8" class ="product-name" >Vet's Best® Flea + Tick Home Spray</a>
   <p class = "product-price"> $19.99</p>
   <p class = "product-price"> $10.49</p>
   <br>
@@ -672,7 +672,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product9.php" class ="product-name" >Pet Life Comfort Hoodie</a>
+  <a href ="product.php?id=9" class ="product-name" >Pet Life Comfort Hoodie</a>
   <p class = "product-price"> $12.99</p>
   <p class = "product-price"> $29.99</p>
   <br>
@@ -711,7 +711,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product10.php" class ="product-name" >Pendleton National Park Grand Canyon Mattress Dog Bed</a>
+  <a href ="product.php?id=10" class ="product-name" >Pendleton National Park Grand Canyon Mattress Dog Bed</a>
   <p class = "product-price"></p>
   <p class = "product-price"> $139.00</p>
   <br>
@@ -746,7 +746,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product11.php" class ="product-name" > Royal Canin® Size Health Nutrition Small Puppy Dog Food </a>
+  <a href ="product.php?id=11" class ="product-name" > Royal Canin® Size Health Nutrition Small Puppy Dog Food </a>
   <p class = "product-price"> $19.49</p>
   <p class = "product-price"> $16.73</p>
   <br>
@@ -784,7 +784,7 @@ $count = 1;
         <span><i class = "fas fa-star"></i></span>
   </div>
   </div>
-  <a href ="product12.php" class ="product-name" >Royal Canin® Breed Health Nutrition™ Pug Puppy Food</a>
+  <a href ="product.php?id=12" class ="product-name" >Royal Canin® Breed Health Nutrition™ Pug Puppy Food</a>
   <p class = "product-price"> $24.99</p>
   <p class = "product-price"> $21.55</p>
   <br>

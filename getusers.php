@@ -1,12 +1,9 @@
 <?php
-$server = "localhost";
-$username = "root";
-$password = "";
-$dbname = "userdb";
+include("db.php");
 
 $conn = mysqli_connect($server,$username,$password,$dbname);
 $search = mysqli_real_escape_string($conn,$_POST['search']);
-$result = mysqli_query($conn, "SELECT * FROM posts");
+$result = mysqli_query($conn, "SELECT * FROM register");
 $rows = array();
 if ($result->num_rows > 0) {
 // output data of each row

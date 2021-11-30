@@ -128,14 +128,10 @@ table.tb{
 <?php
 
 if(isset($_POST['b&m'])){
-$server = "localhost";
-$username = "root";
-$password = "";
-$dbname = "userdb";
-
+include("db.php");
 $conn = mysqli_connect($server,$username,$password,$dbname);
 
-        $result = mysqli_query($conn, "SELECT * FROM posts");
+        $result = mysqli_query($conn, "SELECT * FROM register");
         $count = 0;
 
         echo '<table class="tb" border="2" cellspacing="5" cellpadding="5"> 

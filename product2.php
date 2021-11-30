@@ -105,6 +105,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Top Paw</p>
                     <h2> Top Paw® X-Large Adhesive Leakproof Dog Pads - 28 x 34</h2>
+                    Top Paw Extra-Large Dog Pads have more surface area than regular-sized pads and are ideal for large breeds, multiple dogs, or extended time indoors. Designed with SwiftDry Technology, they quickly turn liquid into gel to help prevent tracking. Adhesive tabs help hold the pad in place, while a pheromone attractant encourages instinctive marking.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

@@ -104,6 +104,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Purina</p>
                     <h2>Purina Pro Plan Savor Adult Cat Food</h2>
+                    Serve kitty the delectable duo in Purina Pro Plan Beef & Chicken Entree in Gravy Adult Wet Cat Food. Real beef plus real chicken offer your furry pal a yummy adult cat food with a combo of high-quality protein sources. Each ingredient in this a premium cat food is thoughtfully chosen, working together to support her nose-to-tail well-being. She gets antioxidants to promote her immune health. Omega-6 fatty acids and vitamin A nourish her skin and super-soft coat, and vitamin A and taurine help keep her vision keen as she explores her world. Plus, the optimal level of protein in every serving helps her maintain an ideal body condition throughout a lifetime of jumping and playing. With a taste cats love in every tender bite, this beef and chicken cat food makes mealtime as delicious as it is nutritious.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

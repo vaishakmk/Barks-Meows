@@ -104,6 +104,15 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Pendleton National Park Grand Canyon </p>
                     <h2>Pendleton National Park Grand Canyon Mattress Dog Bed</h2>
+                    Pendleton Grand Canyon National Park Dog Bed
+
+- From the iconic Pendleton Woolen Mills and their National Park Collection
+- The colors and signature of Grand Canyon National Park
+- 100% polyester non-pill fleece sleep top with diamond quilted 8-oz. cotton underside
+- Removable zippered covers are machine washable
+- Filled with high-loft MemoriFiber Fill that provides comfort and support
+- Filled and finished in the USA; imported covers
+<br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

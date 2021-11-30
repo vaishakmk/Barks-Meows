@@ -105,6 +105,9 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Litter Genie™ </p>
                     <h2>Litter Genie™ Plus Cat Litter Disposal System</h2>
+
+Your wish is granted with the Litter Genie Cat Litter Disposal System. Giving pet parents a convenient place to dispose of their cat’s waste, this pail locks away odors to ensure your home stays smelling fresh. Perfect for use with all litter types, the Pet Genie works with a five-layer bag with built-in odor barrier technology to contain odors and germs until you’re ready to bring them to the outside trash. Compact and convenient, it’s as easy as opening the top and dropping the waste inside—and an interior clamp offers extra protection to seal off any undesirable smells.
+<br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

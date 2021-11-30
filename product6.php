@@ -103,6 +103,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Whisker City® </p>
                     <h2>Whisker City® Organic Catnip</h2>
+                    Rub a generous pinch of Whisker City Organic Catnip between your fingers to release the stored aroma. Place on the floor for your cat to enjoy, or use it to scent your cat's toys and scratchers, and provide her with the blissful feeling only catnip can.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

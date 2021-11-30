@@ -105,6 +105,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Royal Canin </p>
                     <h2>Royal Canin® Breed Health Nutrition™ Pug Puppy Food</h2>
+                    Royal Canin Pug Puppy Dry Dog Food is tailor-made nutrition created just for your Pug pure breed puppy. This exclusive breed-specific diet is uniquely formulated for puppies, with the specific nutrients to help small dogs thrive. The specialized kibble is designed for your small breed’s short, square muzzle, making it easy for him to pick up and chew. An exclusive mix of antioxidants, including vitamin E, supports healthy development of his immune system and keeps his body growing strong. Essential nutrients like EPA and DHA from fish oil help provide skin care and coat care. And this Pug dog food contains high-quality proteins and prebiotics to promote healthy digestion and optimal stool quality. Once your Pug is over 10 months old, transition him from puppy dog food to Royal Canin Pug Adult Dog Food for precise nutrition into the adult years.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

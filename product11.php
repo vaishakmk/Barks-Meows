@@ -104,6 +104,8 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: Royal Canin </p>
                     <h2>Royal Canin® Size Health Nutrition Small Puppy Dog Food</h2>
+                    Small dogs need more than just a small kibble. They need more energy than big dogs, and they have a shorter and more intense growth period. Plus, they typically live longer than large dogs, and have a more finicky appetite. Whether we’re talking about their bodies or their lifestyle, small dogs are a little bit different from the rest of the canine world. Fortunately, Royal Canin Mini is distinctly different, too.
+                    <br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>

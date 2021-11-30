@@ -217,10 +217,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 if (($firstnameErr == "") and($lastnameErr == "")and($emailErr =="") and ($addressErr == "") and ($homeErr == "") and ($mobileErr =="")){
  
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "userdb";
+  include("db.php");
 $response = "";
 
 
@@ -234,7 +231,7 @@ if ($conn->connect_error) {
 }
 
 
- $sql = "INSERT INTO posts (first_name, last_name, email, address, home_num, mob_num) 
+ $sql = "INSERT INTO register (First_Name, Last_Name, Email, Address, Home_Num, Mob_Num) 
   VALUES ('$firstname', '$lastname', '$email','$address', '$home','$mobile')";
   
 

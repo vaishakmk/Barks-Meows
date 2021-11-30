@@ -16,7 +16,7 @@
             color:bisque;
         }
         
-        .contacts-main h1{
+        .contacts-main h1,h4{
             margin-top:50px;
             margin-left:50px;
             font-weight: 900px;
@@ -124,6 +124,11 @@
     ?>
 
 </div>
+<h5 style= "margin-top:50px;
+            margin-left:50px;
+            font-weight: 900px;
+            color:bisque;"> Call on the below number to Reserve a table, Book an appointment with the vet or for Adoption Services.</h5>
+<h4 > Our helpline number is available 24x7 -Call  <span style="color:#FFC300;font-weight:bold">1800-443-333</span></h4>
 
 
 

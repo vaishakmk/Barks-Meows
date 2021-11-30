@@ -82,11 +82,7 @@
 <h1>Search Results</h1>
 
 <?php
-$server = "localhost";
-$username = "root";
-$password = "";
-$dbname = "userdb";
-
+include("db.php");
 $conn = mysqli_connect($server,$username,$password,$dbname);
 
 extract( $_POST );
@@ -95,8 +91,8 @@ extract( $_POST );
         
         $search = mysqli_real_escape_string($conn,$_POST['search']);
 
-        $result = mysqli_query($conn, "SELECT * FROM posts WHERE first_name LIKE '%{$search}%' or last_name LIKE '%{$search}%' 
-        or email LIKE '%{$search}%' or home_num LIKE '{%$search%}' or mob_num LIKE '{%$search%}'");
+        $result = mysqli_query($conn, "SELECT * FROM register WHERE First_Name LIKE '%{$search}%' or Last_Name LIKE '%{$search}%' 
+        or Email LIKE '%{$search}%' or Home_Num LIKE '{%$search%}' or Mob_Num LIKE '{%$search%}'");
         $count = 0;
 
         echo '<table border="2" cellspacing="5" cellpadding="5"> 
@@ -112,13 +108,13 @@ extract( $_POST );
 
         while ($row = $result->fetch_assoc()) {
             $count =$count+1;
-            $field0name = $row["id"];
-            $field1name = $row["first_name"];
-            $field2name = $row["last_name"];
-            $field3name = $row["email"];
-            $field4name = $row["address"];
-            $field5name = $row["home_num"]; 
-            $field6name = $row["mob_num"];
+            $field0name = $row["ID"];
+            $field1name = $row["First_Name"];
+            $field2name = $row["Last_Name"];
+            $field3name = $row["Email"];
+            $field4name = $row["Address"];
+            $field5name = $row["Home_Num"]; 
+            $field6name = $row["Mob_Num"];
     
             echo '<tr> 
                       <td><b>'.$field0name.'<b></td>

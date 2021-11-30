@@ -11,6 +11,16 @@
     <link rel="stylesheet" href = "css/style.css">
 
     <style>
+      .main{
+    width: 100%;
+    height: 800px;
+    position: relative;
+    background: url(images/img12.jpeg);
+    background-attachment: inherit;
+    background-size: cover;
+    background-position: center;  
+}
+
       a{
         color:bisque;
         }

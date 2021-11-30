@@ -104,6 +104,9 @@ if(!isset($_COOKIE['dictionary'])){
                 <div class="content">
                     <p class="brand">Brand: PetSafe® Eatwell™</p>
                     <h2> PetSafe® Eatwell™ 5 Meal Automatic Pet Feeder</h2>
+                    
+No need to rush home to make sure Bixby's got his meal… it's already in his bowl! Schedule your pet's meals in advance with the PetSafe Eatwell 5-Meal Timed Pet Feeder. Set the timer, fill the feeder, and when it's time for the next meal the Eatwell Pet Feeder will deliver a perfectly portioned bowl of kibble to your favorite friend. Perfect for weekends away or pet parents with busy schedules.
+<br><br>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>
