@@ -32,6 +32,6 @@ Signup/Login
 
 
 Client List
+![Screen Shot 2022-09-29 at 11 59 18 AM](https://user-images.githubusercontent.com/37268852/193131212-c43cdc07-a953-455c-b8c1-b6bf07a63cf9.png)
 
-![Uploading Screen Shot 2022-09-29 at 11.59.18 AM.png…]()
 
